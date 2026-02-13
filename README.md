@@ -1,5 +1,3 @@
-# README.md
-
 # SHARD: Semantic Hierarchical Archive with Retrieval and Distillation
 
 A prototype system for enabling longer context windows in LLM-based chat applications through intelligent compression, retrieval, and memory management.
