@@ -101,21 +101,6 @@ print(f"Compression: {metrics['compression_ratio']}")
 print(f"Tokens saved: {metrics['tokens_saved']}")
 ```
 
-## Project Structure
-```
-shard/
-├── shard_core.py              # Core SHARD system
-├── shard_simple.py            # Simplified version for learning
-├── demo.py                    # Interactive demonstrations
-├── analysis.py                # Basic analysis suite
-├── comprehensive_analysis.py  # Complete performance analysis
-├── comparison_demo.py         # Implementation comparison
-├── test_scenarios.py          # Unit and integration tests
-├── run_all.py                 # Master execution script
-├── requirements.txt           # Dependencies
-└── README.md                  # This file
-```
-
 ## Analysis Suite
 
 The comprehensive analysis suite provides:
